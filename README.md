@@ -135,6 +135,20 @@ BSA
    python main.py
    ```
 
+## Sample Transaction Data
+
+Below is a snippet of the generated transaction records (CSV format):
+
+```csv
+transaction_id,statement_id,date,amount,description,company_name,branch_name,branch_id,bank_name,user_id,company_id
+1,3,2000-01-02,-812.59,Transaction 1,Apple_India,Bangalore,3,SBI,1,1
+2,3,2000-01-10,-169.26,Transaction 2,Apple_India,Bangalore,3,SBI,1,1
+3,3,2000-01-14,-233.76,Transaction 3,Apple_India,Bangalore,3,SBI,1,1
+4,3,2000-01-18,333.49,Transaction 4,Apple_India,Bangalore,3,SBI,1,1
+5,3,2000-01-06,541.19,Transaction 5,Apple_India,Bangalore,3,SBI,1,1
+100,3,2000-01-21,-58.2,Transaction 100,Apple_India,Bangalore,3,SBI,1,1
+
+
 **Technologies Used:**
 Programming Language: Python 3.12
 
