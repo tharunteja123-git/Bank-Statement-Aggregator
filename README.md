@@ -135,6 +135,31 @@ BSA
    python main.py
    ```
 
+**Technologies Used:**
+Programming Language: Python 3.12
+
+Framework: Flask (for app context and modular structure)
+
+Database: MySQL (with SQLAlchemy ORM for CRUD operations)
+
+Cloud Storage: AWS S3 (for uploading and downloading CSV files)
+
+Encryption: Python libraries for securing sensitive user data
+
+Version Control: Git & GitHub (for collaboration and repo management)
+
+Environment Management: Virtualenv (venv/.venv)
+
+Utilities:
+
+boto3 → AWS S3 integration
+
+pandas → CSV parsing and aggregation
+
+mysql-connector / SQLAlchemy → Database connectivity
+
+Documentation & Diagrams: README.md, ERD (erd.png)
+
 ## Backend Workflow
 
 1. **Data Generation** 
