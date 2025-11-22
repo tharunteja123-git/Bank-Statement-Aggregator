@@ -71,7 +71,7 @@ BSA
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/VineethChivukula/BSA.git
+   git clone https://github.com/tharunteja123-git/Bank-Statement-Aggregator
    cd BSA
    ```
 
@@ -163,9 +163,7 @@ BSA
 ![Tables](erd.png)
 
 ## Contributors
-
-- **[Sai Kumar Gouru](https://www.linkedin.com/in/sai-kumar-gouru-972623a8/)** - Designed the problem statement
-- **[Vineeth Chivukula](https://www.linkedin.com/in/vineethchivukula)** - Code and logic
+- **[Tharun Teja Nudagala](https://www.linkedin.com/in/tharun-teja-nudagala-11b2a7290)** - Code and logic
 
 
 ## License
@@ -174,4 +172,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-I would like to extend my sincere gratitude to [Hema](https://www.linkedin.com/in/hemaannaluru/) and [Srujana](https://www.linkedin.com/in/srujanavattamwar/) for their invaluable support. Their patience and belief in my abilities were instrumental in the successful completion of this work.
+I would like to extend my sincere gratitude to [Srujana](https://www.linkedin.com/in/srujanavattamwar/) for their invaluable support. Their patience and belief in my abilities were instrumental in the successful completion of this work.
