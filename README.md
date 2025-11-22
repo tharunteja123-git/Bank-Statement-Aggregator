@@ -159,8 +159,6 @@ BSA
 
    1. Manage and perform CRUD operations on various entities (users, companies, branches, transactions) using SQLAlchemy.
 
-## Database Schema
-![Tables](erd.png)
 
 ## Contributors
 - **[Tharun Teja Nudagala](https://www.linkedin.com/in/tharun-teja-nudagala-11b2a7290)** - Code and logic
